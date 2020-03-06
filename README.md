@@ -1,6 +1,6 @@
-#Apache Kafka#
+# Apache Kafka #
 
-##Kafka installation##
+## Kafka installation ##
 
 To install kafka in windows download the Binary files from Apache open source foundation. Link
 
